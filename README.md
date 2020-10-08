@@ -17,8 +17,11 @@ updateContact:- The REST method POST updates the existing record either on CRM o
 deleteContact:- The REST method POST deletes the existing record either from CRM or database. This endpoint will accepts data in JSON format
 
 DB SCHEMA CREATION:-
+
 Created contacts table inside smatbot database.queries to create the database and table are:
+
 To create database:- create database smatbot;
+
 To create table:- create table contacts (
     id int auto_increment primary key,
     first_name varchar(200) not null,

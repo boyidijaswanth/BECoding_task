@@ -5,6 +5,7 @@ Develop a CRUD (Create – Read – Update – Delete) application using CodeIgn
 
 Also simultaneously  create a MySQL database and table called ‘contacts’ and then perform similar Write, Read, Update and Delete operations.
 Prerequisites:- CodeIgniter - 3, PHP > 7 and MySQL > 5
+
 OS:- Windows 10
 
 This application will have 4 apis which are addContact,getContact,updateContact and deleteContact.
